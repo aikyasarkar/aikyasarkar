@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am currently learning Data Science.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; I am a Python Full Stack Developer.
+- 🤔 &nbsp; Love to explore new technologies.
 - ✍️ &nbsp; Trekking, Vlogging, Travelling are my hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
@@ -15,13 +15,6 @@
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Anaconda | Jupyter Notebook | Visual Studio Code | Git
 - 🖥 &nbsp; Premiere Pro | Illustrator | Photoshop
-
-<h3>👨🏻‍💻 About Me</h3
-
-- 🔭 &nbsp; I am currently learning Data Science.
-- 💼 &nbsp; I am a Python Full Stack Developer.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ &nbsp; Trekking, Vlogging, Travelling are my hobbies/side hustles.
 
 <h3>🤝🏻 Connect with Me</h3>
 
