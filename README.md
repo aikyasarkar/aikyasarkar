@@ -1,7 +1,7 @@
 # Hey, I am Aikya Sarkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<h3> 👨🏻‍💻 About Me </h3
+
+<h3>👨🏻‍💻 About Me</h3
 
 - 🔭 &nbsp; I am currently learning Data Science.
 - 💼 &nbsp; I am a Python Full Stack Developer.
@@ -16,7 +16,7 @@
 - 🔧 &nbsp; Anaconda | Jupyter Notebook | Visual Studio Code | Git
 - 🖥 &nbsp; Premiere Pro | Illustrator | Photoshop
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3>🤝🏻 Connect with Me</h3>
 
 <p>
 &nbsp; <a href="https://www.instagram.com/aikyasarkar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
