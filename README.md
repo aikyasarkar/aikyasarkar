@@ -2,7 +2,6 @@
 
 
 <h3>👨🏻‍💻 About Me</h3
-
 - 🔭 &nbsp; I am currently learning Data Science.
 - 💼 &nbsp; I am a Python Full Stack Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
