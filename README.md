@@ -1,6 +1,15 @@
 # Hey, I am Aikya Sarkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
