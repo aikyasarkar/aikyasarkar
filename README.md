@@ -1,9 +1,6 @@
-<div>
-<div style="text-align:left">
 # Hey, I am Aikya Sarkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-<img src="https://komarev.com/ghpvc/?username=aikyasarkar" alt="aikyasarkar" /></div>
-<div style="margin-left:550px">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/></div></div>
+<img src="https://komarev.com/ghpvc/?username=aikyasarkar" alt="aikyasarkar" />
+<img style="margin-left:500px" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
